@@ -1,4 +1,4 @@
-# Ex. No: 5 Inter-VLAN Routing Using Router-on-a-Stick
+<img width="1598" height="726" alt="Screenshot 2026-02-04 094714" src="https://github.com/user-attachments/assets/e80de11a-1016-4079-a5a8-608abcde7cc1" /># Ex. No: 5 Inter-VLAN Routing Using Router-on-a-Stick
 # Date: 04/02/2026
 ________________________________________
 # Objective
@@ -90,7 +90,15 @@ ________________________________________
 •	Router subinterface configuration<br>
 •	PC IP settings<br>
 •	Successful ping between PCs in different VLANs after routing<br>
-•	Successful ping between PCs in the same VLAN<br>
+•	Successful ping between PCs in the same VLAN<br> 
+<img width="1598" height="726" alt="Screenshot 2026-02-04 094714" src="https://github.com/user-attachments/assets/e80de11a-1016-4079-a5a8-608abcde7cc1" />
+<img width="1507" height="750" alt="Screenshot 2026-02-04 094731" src="https://github.com/user-attachments/assets/89230a57-a3f1-40f4-a4b5-91930cadd536" />
+<img width="1541" height="721" alt="Screenshot 2026-02-04 094753" src="https://github.com/user-attachments/assets/626e41b7-0aa4-47e4-a652-f3b1bb7a80cc" />
+<img width="1547" height="755" alt="Screenshot 2026-02-04 094816" src="https://github.com/user-attachments/assets/ed0ff8e8-d6d3-424d-8fed-598a4c2c5d21" />
+
+
+
+
 ________________________________________
 # Result
 Inter-VLAN routing was successfully configured using the Router-on-a-Stick method. PCs in different VLANs could communicate through the router.
