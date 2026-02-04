@@ -1,4 +1,4 @@
-<img width="1598" height="726" alt="Screenshot 2026-02-04 094714" src="https://github.com/user-attachments/assets/e80de11a-1016-4079-a5a8-608abcde7cc1" /># Ex. No: 5 Inter-VLAN Routing Using Router-on-a-Stick
+# Ex. No: 5 Inter-VLAN Routing Using Router-on-a-Stick
 # Date: 04/02/2026
 ________________________________________
 # Objective
